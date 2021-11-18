@@ -1,6 +1,6 @@
 /*
 1. Create a function named `sayHello` that alerts a message `Hello World!`.
-*/
+*/jj
 
 /*
 2. Create a function named `fullName` with the following steps:
