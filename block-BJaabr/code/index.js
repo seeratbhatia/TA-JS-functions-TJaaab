@@ -1,5 +1,5 @@
 // -ook at the example below and do the same for other problems.
-
+jj
 /*
 Write a function named convertToString that accepts a number and converts the number into a string (hint: use String()) and return the converted value.
 
