@@ -1,6 +1,6 @@
 // Use default parameter where ever you can
 
-/*
+/*kk
 1. 🎖Write a function named calculateDogAge that:
   * [ ] Takes 1 argument: your puppy's age.
   * [ ] Calculates your dog's age based on the conversion rate of 1 human year to 7 dog years.
