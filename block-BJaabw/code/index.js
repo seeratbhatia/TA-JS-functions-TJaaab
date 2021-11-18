@@ -11,7 +11,7 @@ minToSec(2) ➞ 120
 */
 
 // - Write a Function Decleration for above problem
-function minToSec() {
+function minToSec(n) {
   // Your code
 }
 // - Execute the function with required parameter
